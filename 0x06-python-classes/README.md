@@ -1,8 +1,9 @@
-# 0x06 Python - Classes and Objects
----
-## Description
+# 0x06. Python - Classes and Objects
 
-This project in the High Level Programming series is about:
+## Description
+What you should learn from this project:
+
+* Why Python programming is awesome (don’t forget to tweet today, with the hashtag #pythoniscool :))
 * What is OOP
 * “first-class everything”
 * What is a class
@@ -23,28 +24,52 @@ This project in the High Level Programming series is about:
 * How does Python find the attributes of an object or class
 * How to use the getattr function
 
-## Files
 ---
-File|Task
----|---
-0-square.py | class Square version 1
-1-square.py | class Square version 2
-2-square.py | class Square version 3
-3-square.py | class Square version 4
-4-square.py | class Square version 5
-5-square.py | class Square version 6
-6-square.py | class Square version 7
 
-## Directories
+### [0. My first square](./0-square.py)
+* Write an empty class Square that defines a square:
+
+
+### [1. Square with size](./1-square.py)
+* Write a class Square that defines a square by: (based on 0-square.py)
+
+
+### [2. Size validation](./2-square.py)
+* Write a class Square that defines a square by: (based on 1-square.py)
+
+
+### [3. Area of a square](./3-square.py)
+* Write a class Square that defines a square by: (based on 2-square.py)
+
+
+### [4. Access and update private attribute](./4-square.py)
+* Write a class Square that defines a square by: (based on 3-square.py)
+
+
+### [5. Printing a square](./5-square.py)
+* Write a class Square that defines a square by: (based on 4-square.py)
+
+
+### [6. Coordinates of a square](./6-square.py)
+* Write a class Square that defines a square by: (based on 5-square.py)
+
+
+### [7. Singly linked list](./100-singly_linked_list.py)
+* Write a class Node that defines a node of a singly linked list by: 
+
+
+### [8. Print Square instance](./101-square.py)
+* Write a class Square that defines a square by: (based on 6-square.py)
+
+
+### [9. Compare 2 squares](./102-square.py)
+* Write a class Square that defines a square by: (based on 4-square.py)
+
+
+### [10. ByteCode -> Python #5](./103-magic_class.py)
+* Write the Python class MagicClass that does exactly the same as the following Python bytecode:
+
 ---
-Directory Name | Description
----|---
-0x06-python-classes | Main directory with all Python files
-
-## More Info for Python programs
-* All Python files is PEP 8(version 1.7) formatted
-* All modules, classes and functions(inside and outside a class) have documentations
-* Python Scripts - first line of every file is exactly be exactly #!/usr/bin/python3 and executable
 
 ## Author
-Samuel E. Igbinovia
+* **Geoffrey Zoref** - [Gzoref](https://github.com/Gzoref)
