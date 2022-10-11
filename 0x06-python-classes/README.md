@@ -72,4 +72,5 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Geoffrey Zoref** - [Gzoref](https://github.com/Gzoref)
+Sammy E. Igbinovia
+
