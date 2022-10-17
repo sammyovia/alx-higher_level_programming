@@ -79,4 +79,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Geoffrey Zoref** - [Gzoref](https://github.com/settings/profile)
+* **Samuel E. Igbinovia** 
