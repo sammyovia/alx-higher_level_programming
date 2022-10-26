@@ -19,7 +19,3 @@ class Student:
             if key in attrs:
                 new_dictionary[key] = value
         return new_dictionary
-
-    def reload_from_json(self, json):
-        for key, value in json.items():
-            setattr(self, key, value)

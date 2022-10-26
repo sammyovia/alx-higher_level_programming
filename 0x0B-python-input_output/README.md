@@ -93,4 +93,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Sammy E. igbinovia** - [sammyovia](https://github.com/sammyovia)
+* **sammy E. Igbinovia** - [Sammyovia](https://github.com/sammyovia)
