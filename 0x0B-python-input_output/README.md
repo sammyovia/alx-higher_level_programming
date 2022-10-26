@@ -1,4 +1,4 @@
-# 0x0B. Python - Input/Output
+#v 0x0B. Python - Input/Output
 
 ## Description
 What you should learn from this project:
@@ -93,4 +93,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **sammy E. Igbinovia** - [Sammyovia](https://github.com/sammyovia)
+* **Samuel E. Igbinovia** - [sammyovia](https://github.com/sammyovia)
