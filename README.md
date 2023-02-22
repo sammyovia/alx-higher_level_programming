@@ -1,1 +1,1 @@
-This repo contains ALX Higher Level Programming Course
+This is my alx-higher_level_programming repo

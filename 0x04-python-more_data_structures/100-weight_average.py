@@ -1,9 +1,24 @@
 #!/usr/bin/python3
 def weight_average(my_list=[]):
-    if not my_list:
-        return 0
-    res = 0.0
-    s_list = list(t[0] * t[1] for t in my_list)
-    w_list = list(t[1] for t in my_list)
-    res = sum(s_list) / sum(w_list)
-    return res
+    """
+    Returns the weighted average of all integers tuple (<score>, <weight>)
+    ...
+
+    Parameters
+    ----------
+    my_list : list
+        list of tuples
+
+    Return:
+        the average
+    """
+
+    if not isinstance(my_list, list) or len(my_list) == 0:
+        return (0)
+
+    avg = 0
+    size = 0
+    for tup in my_list:
+        avg += (tup[0] * tup[1])
+        size += tup[1]
+    return (avg / size)

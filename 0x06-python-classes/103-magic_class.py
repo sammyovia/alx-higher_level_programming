@@ -1,22 +1,22 @@
 #!/usr/bin/python3
-"""Magic class"""
+"""writing a docstring"""
 import math
 
 
-class MagicClass():
-    """Magic class"""
+class MagicClass:
+    """set up the magic"""
 
     def __init__(self, radius=0):
-        """Initialization class"""
+        """ writing another docstring """
         self.__radius = 0
-        if not isinstance(radius, int) and not isinstance(radius, float):
+        if type(radius) is not int and type(radius) is not float:
             raise TypeError('radius must be a number')
         self.__radius = radius
 
     def area(self):
-        """Return the area of the class"""
+        """again with the docstring"""
         return self.__radius ** 2 * math.pi
 
     def circumference(self):
-        """Return the circumference"""
+        """such docstring"""
         return 2 * math.pi * self.__radius
